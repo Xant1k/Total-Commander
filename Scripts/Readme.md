@@ -27,3 +27,35 @@ BigDateNameFolder.vbs
 DelEmtySubDirs.vbs
 Удаление пустых папок внутри текущей директории и во всех вложенных в нее
 
+SpisokHtml.vbs
+Создание списка файлов в html формате
+
+SpisokHtmlTab.vbs
+Создание списка файлов в html формате в виде таблицы
+
+CopyXlsInText.au3
+Копирование из файлов XLS, XLSX строк, столбцов в текстовый файл
+
+SpellChecker_PN.vbs
+Орфографическая проверка текста файла под курсором
+
+SummaTextFiles.vbs
+Собирает выделенные текстовые файлы в один
+Используется FunctionsPlus.vbs - файл можете скачать в шапке темы
+
+InfoPluginsTC.vbs
+Полная информация о встроенных плагинах Total Commander'a
+
+MakePlayLists.vbs
+Создает M3U в текущей и в каждой в нее вложенной папке, если найдет в них файлы MP3 или WMA
+
+MakePlayListsAll.vbs
+Создание плейлиста всех музыкальных треков в папке и подпапках
+Используется FunctionsPlus.vbs
+
+DeleteDesktopInI.vbs
+Удаление в выделенных папках файла Desktop.ini и снятие атрибута с папки "Только чтение"
+
+MoveOnLevelUp.vbs
+Перемещение выделенных файлов\папок на уровень вверх
+
